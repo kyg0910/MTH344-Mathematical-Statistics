@@ -11,6 +11,11 @@
 This course, MTH344: Mathematical Statistics at Ulsan National Institute of Science and Technology (UNIST), aims to cover advanced topics in mathematical statistics, including limit theorems, small-sample inference, hypothesis testing, and the analysis of variance (ANOVA). Time permitting, we will also explore their applications to linear regression.
 
 ## Course Narrative
+Scientific research stems from formulating models to describe real-world phenomena, identifying the most plausible model, and addressing research questions based on the chosen model. Mathematical Statistics stands as one of the most sophisticated frameworks for characterizing and analyzing these data-driven scientific reasoning processes.
+
+Core components in such reasoning include (i) Probabilistic Models, (ii) Estimation, and (iii) Hypothesis Testing. This course consists of three modules corresponding to these pillars. In (i), Module 1 reviews basic probability theory, including popular discrete and continuous distributions, multivariate Gaussian distributions, and moment-generating functions. In (ii), Module 2 derives the law of large numbers and the central limit theorem, examines essential distributions under the Gaussian assumption, and introduces maximum likelihood estimators (MLEs) and their asymptotic properties. In (iii), Module 3 derives the most powerful tests under specific constraints on Type I errors and explores theire relationship with likelihood ratio-based approaches. It then extends these findings to cases where data are from two distributions to test for heterogeneity, and to cases involving multiple distributions via the analysis of variance (ANOVA).
+
+This course presents content mostly following [1], but also provides substantial unique and advanced material. Lecture notes are accompanied by exercises, practice problems, and advanced practice problems so that readers can progressively practice and check their understanding. Advanced practice problems are at the level of challenging problems in graduate school entrance exams for Statistics Departments and moderate levels for doctoral qualifying exams.
 
 ## Lecture Topics
 | Module / Topic | Course Material |
@@ -31,7 +36,7 @@ This course, MTH344: Mathematical Statistics at Ulsan National Institute of Scie
 | 　◦ 12. The Analysis of Variance (ANOVA) | [[Lecture Note]](https://github.com/kyg0910/MTH344-Mathematical-Statistics/blob/main/lecture%20notes/Chaper%2012_The%20Analysis%20of%20Variance.pdf) |
 
 ## Textbook
-Rice, John A., and John A. Rice. Mathematical statistics and data analysis. Vol. 371. Belmont, CA: Thomson/Brooks/Cole, 2007.
+[1] Rice, John A., and John A. Rice. Mathematical statistics and data analysis. Vol. 371. Belmont, CA: Thomson/Brooks/Cole, 2007.
 
 ## License
 You can freely use and distribute the code, as long as you provide attribution to the original author and source.
