@@ -21,8 +21,8 @@ This course presents content mostly following [1], but also provides substantial
 | Module / Topic | Course Material |
 | :--- | :--- |
 | **0. Introduction** | [[Lecture Note]](https://github.com/kyg0910/MTH344-Mathematical-Statistics/blob/main/lecture%20notes/Chapter%200_Introduction.pdf) |
-| <br> **M1. Review of Probability Theory** | |
-| 　◦ 1. Probability | [[Lecture Note]](https://github.com/kyg0910/MTH344-Mathematical-Statistics/blob/main/lecture%20notes/Module%201_Review%20of%20Probability%20Theory.pdf) |
+| <br> **M1. Review of Probability Theory** | [[Lecture Note]](https://github.com/kyg0910/MTH344-Mathematical-Statistics/blob/main/lecture%20notes/Module%201_Review%20of%20Probability%20Theory.pdf) |
+| 　◦ 1. Probability |  |
 | 　◦ 2. Random Variables | |
 | 　◦ 3. Joint Distributions | |
 | 　◦ 4. Expected Values | |
