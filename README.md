@@ -33,7 +33,7 @@ This course presents content mostly following [1], but also provides substantial
 | <br> **M3. Hypothesis Testing** | |
 | 　◦ 9. Testing Hypotheses and Assessing Goodness of Fit | [[Lecture Note]](https://github.com/kyg0910/MTH344-Mathematical-Statistics/blob/main/lecture%20notes/Chapter%209_Testing%20Hypotheses%20and%20Assessing%20Goodness%20of%20Fit.pdf) |
 | 　◦ 11. Comparing Two Samples | [[Lecture Note]](https://github.com/kyg0910/MTH344-Mathematical-Statistics/blob/main/lecture%20notes/Chapter%2011_Comparing%20Two%20Samples.pdf) |
-| 　◦ 12. The Analysis of Variance (ANOVA) | [[Lecture Note]](https://github.com/kyg0910/MTH344-Mathematical-Statistics/blob/main/lecture%20notes/Chaper%2012_The%20Analysis%20of%20Variance.pdf) |
+| 　◦ 12. The Analysis of Variance (ANOVA) | [[Lecture Note]](https://github.com/kyg0910/MTH344-Mathematical-Statistics/blob/main/lecture%20notes/Chapter%2012_The%20Analysis%20of%20Variance.pdf) |
 
 ## Textbook
 [1] Rice, John A., and John A. Rice. Mathematical statistics and data analysis. Vol. 371. Belmont, CA: Thomson/Brooks/Cole, 2007.
